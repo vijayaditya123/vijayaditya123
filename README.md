@@ -5,7 +5,7 @@
 
 Building practical AI applications, backend systems, and LLM-powered
 solutions.
-:::
+
 
 ------------------------------------------------------------------------
 
