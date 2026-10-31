@@ -20,12 +20,12 @@ solutions.
 I enjoy working across the AI application stack---from backend APIs and
 data retrieval to LLM integration and agentic workflows.
 
--   🎓 B.Tech in Computer Science and Engineering --- SRM Institute of
+-   B.Tech in Computer Science and Engineering --- SRM Institute of
     Science and Technology
--   💼 Former Data Science Intern at **Locobuzz**
--   🧠 Interested in Generative AI, RAG, Agentic AI, and applied machine
+-   Former Data Science Intern at **Locobuzz**
+-   Interested in Generative AI, RAG, Agentic AI, and applied machine
     learning
--   🛠️ Currently building a configurable chatbot with **Azure AI
+-   Currently building a configurable chatbot with **Azure AI
     Foundry**
 
 ## What I've built
@@ -97,6 +97,3 @@ Docker, Git, GitHub, Streamlit, Jupyter
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
-*Turning ideas into intelligent solutions.*
-:::
