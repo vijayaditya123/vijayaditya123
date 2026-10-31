@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Hi, I'm Aditya Vijay 👋
 
 ### AI/ML Engineer \| Generative AI \| RAG \| Agentic AI \| Python Backend
@@ -53,7 +53,7 @@ documents and uses an LLM to generate grounded responses.
 **Technologies:** Python, FastAPI, AWS Bedrock AgentCore, OpenSearch,
 SingleStore, and Cohere embeddings.
 
-[View chatbot demo](https://chatbot.locobuzz.com/)
+
 
 ### 3. Social Media Actionability Classification --- Locobuzz Internship
 
@@ -61,8 +61,7 @@ Worked on an **ELECTRA-based** model to classify social media posts as
 actionable or non-actionable. Improved model accuracy from **82% to
 89%**.
 
-[View project
-notebook](https://colab.research.google.com/drive/1f-_r3Ce1pmh9E9WV_5k6vuY8S9zEBGcA?usp=sharing)
+
 
 ### 4. Campaign Name Detection --- Locobuzz Internship
 
